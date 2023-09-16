@@ -1,2 +1,2 @@
-# New_one
+# Basics Javascript
 Projects
